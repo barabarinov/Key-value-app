@@ -1,0 +1,47 @@
+# Pycharm
+.idea/
+__pycache__/
+
+/.DS_Store
+
+# databese`s dumps
+dump.rdb
+
+# Distribution / packaging
+.Python
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+pyenv.cfg
+pyvenv.cfg
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# pyenv
+.python-version
+
+# Environments
+.dotenv
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
