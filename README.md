@@ -25,7 +25,7 @@ docker-compose up -d
 ### URLs
 
 * POST `/key/` - store value
-* POST `/key/<key>/` - get value
+* GET `/key/<key>/` - get value
 * PUT `/key/<key>/` - update value
 * DELETE `/key/<key>/` - delete value
 
